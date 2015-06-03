@@ -1,0 +1,24 @@
+{
+  "name": "capn-regex",
+  "version": "1.0.0",
+  "description": "Regex capture nth group",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/elvinyung/capn-regex.git"
+  },
+  "keywords": [
+    "capture",
+    "group",
+    "regex"
+  ],
+  "author": "Elvin Yung",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/elvinyung/capn-regex/issues"
+  },
+  "homepage": "https://github.com/elvinyung/capn-regex#readme"
+}
