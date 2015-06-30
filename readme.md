@@ -8,3 +8,9 @@ var capn = require('capn-regex');
 
 capn('{{x.x}}{{y}}{{}}', /\{{2}([^\}]*)\}{2}/g, 1);  // ["x.x", "y", ""]
 ```
+
+### Usage:
+
+```Javascript
+capn(string, pattern, group);
+```
