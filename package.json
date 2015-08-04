@@ -1,6 +1,6 @@
 {
   "name": "capn-regex",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Regex capture nth group",
   "main": "index.js",
   "scripts": {
